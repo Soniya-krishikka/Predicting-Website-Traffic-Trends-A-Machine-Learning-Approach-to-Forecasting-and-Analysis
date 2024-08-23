@@ -1,0 +1,2 @@
+# Predicting-Website-Traffic-Trends-A-Machine-Learning-Approach-to-Forecasting-and-Analysis
+This project demonstrates how to forecast website traffic using the Seasonal ARIMA (SARIMA) model. The dataset consists of daily traffic views from "Thecleverprogrammer.com" and is used to predict future traffic trends. The key steps include data preprocessing, seasonal decomposition, model training, and prediction visualization
